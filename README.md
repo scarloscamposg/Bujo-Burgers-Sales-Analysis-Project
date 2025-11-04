@@ -1,2 +1,2 @@
-# Bujo-Burgers-Sales-Analysis
+# Bujo Burgers Sales Analysis
 Sales Data Analysis made for Bujo Burgers 
