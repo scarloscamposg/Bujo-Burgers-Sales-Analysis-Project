@@ -1,7 +1,7 @@
 # Bujo Burgers Sales Analysis Project
 Subject: Sales Analysis for Hospitality Company (Bujo Burgers)
 ## Project Background
-Bujo Burgers is a small local fast casual food Restaurant service company, stablished in 2018 in Sandymount following that the Terenure branch in later years, with a small menu where main products are beef and chicken burgers, who are oriented to quality and fast service, while caring about the environment and people.
+Bujo Burgers is a small local fast casual food Restaurant service company, stablished in 2018 in Sandymount, following that the Terenure branch was opened in later years, with a small menu where the main products are beef and chicken burgers, who are oriented to quality and fast service, while caring about the environment and people.
 In the last three years, the company have been going through an expansion phase, where they have been building a net sales registry database that has previously underutilized. This project thoroughly analyses and synthesizes this data in order to reveal insights that could improve Bujo’s success.
 Insights and recommendations are provided in key areas:
 •	Sales trend Analysis: An evaluation of historical net sales patterns, by branch and payment channel, detailing it by day of week, month and year.
