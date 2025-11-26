@@ -9,9 +9,10 @@ Insights and recommendations are provided in key areas:
 ## Executive Summary:
 Using tools like Excel, Power query and Power BI, I pulled data from the Sales Registry database to create a Business Development Dashboard Report, to track and analyze sales over time in the last 3 years through storytelling techniques in both of their Restaurant Branches. I Recommended some Marketing strategies, that should be applied to certain days of the week to increase sales and also, I built a Digital marketing plan based on this data and other factors.
 ## Business Problem
-Sales after Covid has decreased due to the cost-of-living crisis and other economic issues during this time, besides cost have increased. Besides one of the branches was underperforming and it was not clear by how much. Therefore, now they needed to organize and review how sales have behaved during this time and what strategies we could apply to increase sales, and to consecutively cross it with our loyal customer data in the future.  
+Sales after Covid has decreased due to the cost-of-living crisis and other economic issues during this time, besides cost have increased. Additionally one of the branches was underperforming and it was not clear by how much. Therefore, now they needed to organize and review how sales have behaved during this time and what strategies we could apply to increase sales, and to consecutively cross it with our loyal customer data in the future.  
 ## Methodology
 First a exploratory analysis was made to find insights of the sales by days of the week, months, and year also divided by payment channel in order to analyze online and in site sales by branch. After that two Dashboards in Power BI was built, to show the performance of net sales overtime and periods, then compare it between branches using storytelling for a more comprehensive display of the sales performance and insights to the stakeholders. 
+The Dashboard Document can be seen here <https://github.com/scarloscamposg/Bujo-Burgers-Sales-Analysis-Project/blob/main/Bujo%20Sales%20Sandymount%20and%20Terenure.pbix>. Additionally a Deep analysis in the underperforming branch was made for exploration and findings here:<https://github.com/scarloscamposg/Bujo-Burgers-Sales-Analysis-Project/blob/main/Bujo%20Terenure%20Sales%20Data%20Analysis.pbix>
 ## Skills
 Excel: Data cleaning, Pivot Table, power query, DAX formulas, sorting and filtering, 
 Power BI: DAX, ETL, Calculated Columns, Data Modelling, Data visualization, Storytelling
@@ -32,7 +33,6 @@ In a week day analysis we could see that Friday and Saturday are the days where 
 
 <img width="556" height="390" alt="image" src="https://github.com/user-attachments/assets/c6d8589f-dbf6-4164-8df0-0be52d8b27c5" />
 
- 
 
 ## Recommendations
 
@@ -42,7 +42,9 @@ In a week day analysis we could see that Friday and Saturday are the days where 
 
 •	Reach out to the best costumers through the app Loyalty program data to be awarded with discounts and benefits.
 
-•	Apply a Digital marketing campaign for new products and promotions targeted to different costumer segments (Refer to Digital Marketing Proposal)
+•	Apply a Digital marketing campaign for new products and promotions targeted to different costumer segments. Refer to Digital Marketing Proposal: <https://github.com/scarloscamposg/Bujo-Burgers-Sales-Analysis-Project/blob/main/Bujo%20marketing%20plan.pdf>
 
 •	Have a closer relationship in the Terenure Community to connect and increase sales there as it happens in the Sandymount branch which had formed a relationship with the community  
+
+A presentaion of this has been showed to the director manager with this recomendations and future projects to dive into costumer data to cross with this analysis. You can Check it out here: <https://github.com/scarloscamposg/Bujo-Burgers-Sales-Analysis-Project/blob/main/BUJO%20Sales%20Data%20Analysis%20and%20Marketing%20Strategies%20Presentation.pptx> 
 
