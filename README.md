@@ -37,8 +37,12 @@ In a week day analysis we could see that Friday and Saturday are the days where 
 ## Recommendations
 
 •	For July and August Low Sales in Terenure:  Apply a promotion these months to uplift sales these months especially in august in Terenure. Idea Example: “TereBujo” month in Terenure. Besides It is advisable to apply a special promotion this day to increase sales in death hours or days of the week like Tuesdays.
+
 •	For Sales of Deliveroo sometimes even reaches to credit card sales which are made on store in Terenure:  Consider strategies for loyal Deliveroo costumers too as there must be many in the app. Not only for Terenure also for Sandymount too. 
+
 •	Reach out to the best costumers through the app Loyalty program data to be awarded with discounts and benefits.
+
 •	Apply a Digital marketing campaign for new products and promotions targeted to different costumer segments (Refer to Digital Marketing Proposal)
+
 •	Have a closer relationship in the Terenure Community to connect and increase sales there as it happens in the Sandymount branch which had formed a relationship with the community  
 
